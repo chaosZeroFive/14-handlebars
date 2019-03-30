@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# this doc is where I am tweaking the layout
+template.html
+
+package-lock.json

@@ -1,8 +1,9 @@
 body {
-    background-image: url(https://www.texasstandard.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-17-at-9.36.47-AM-e1487349468971.png);
-    background-repeat: no-repeat;
-    background-position: center;
     font-family: 'Istok Web', sans-serif;
+}
+
+#main-img{
+	align-self: center;
 }
 
 .pageBodyContainer {
@@ -132,4 +133,10 @@ body {
     display: inline-block;
     font-size: 16px;
     border-radius: 3px;
+}
+
+.card-img-top{
+	max-width: 100%;
+	height: auto;
+	align-self: center;
 }
